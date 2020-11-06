@@ -50,7 +50,6 @@
      <Compile Include="Assets\Scripts\Ruleta.cs" />
      <Compile Include="Assets\Scripts\Timer.cs" />
      <Compile Include="Assets\Scripts\TimerIncremental.cs" />
-     <Compile Include="Assets\amusedART\SlimeRabbit\Sc_AniTest.cs" />
      <None Include="Assets\Ladymito\Free_cat\Animations\low_poly_cat_animation_list.txt" />
      <None Include="Assets\StreamingAssets\Vuforia\Proyecto2-IA.xml" />
     <Reference Include="UnityEngine">
